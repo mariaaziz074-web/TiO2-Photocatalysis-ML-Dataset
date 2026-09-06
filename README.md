@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TiO2 Photocatalysis ML Dataset 🧪🤖
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
