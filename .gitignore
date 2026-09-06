@@ -1,0 +1,23 @@
+# Virtual Environment - NEVER upload to GitHub!
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+
+# Test files
+test.py
+check_files.py

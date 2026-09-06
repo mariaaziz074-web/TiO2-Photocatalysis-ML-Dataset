@@ -1,0 +1,48 @@
+Experiment_ID,Reference,Catalyst,Pollutant,Light_source,Light_intensity_mW_cm2,Light_wavelength_nm,Initial_concentration_mg_L,Initial_concentration_mM,Initial_concentration_M,Catalyst_dosage_g_L,Catalyst_loading_wt_percent,Dopant_concentration_mol_percent,pH,pH_min,pH_max,pH_tested_text,pH_optimum,Time_min,Temperature_C,Support_material,Reactor_type,Target_metric,Target_value_percent
+E02,"Khunphonoi and Grisdanurak, 2016","TiO2 nanorods","P-cresol","UV light",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,240,NA,NA,NA,"Removal_percent",80
+E03,"Khunphonoi and Grisdanurak, 2016","TiO2 Degussa P-25","P-cresol","UV light",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,240,NA,NA,NA,"Removal_percent",50
+E05,"Mohammadi et al., 2014","Multi-walled carbon nanotube TiO2","2,4-dichlorophenol","UV light",NA,NA,NA,NA,NA,NA,NA,3.0,NA,NA,NA,NA,NA,120,NA,NA,NA,"Removal_percent",93
+E06,"Mohammadi et al., 2014","Multi-walled carbon nanotube TiO2","2,4-dichlorophenol","Solar light",NA,NA,NA,NA,NA,NA,NA,3.0,NA,NA,NA,NA,NA,120,NA,NA,NA,"Removal_percent",87
+E07,"Zulfiqar et al., 2018","TiO2 nanotube","Orange II","UV light",NA,NA,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2000,NA,NA,NA,"Removal_percent",89.46
+E08,"Alias et al., 2020","Nano flower-like rutile TiO2","Methylene blue","Solar light",NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,180,NA,NA,NA,"Removal_percent",98.95
+E12,"Chen et al., 2007","TiO2 Degussa P-25","Malachite Green","UV light",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,360,NA,NA,NA,"Removal_percent",99.9
+E13,"Barakat et al., 2020","Graphene oxide based TiO2","2-chlorophenol","Solar light",NA,NA,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,240,NA,NA,NA,"Removal_percent",80
+E16,"Munikrishnappa et al., 2019","Graphene oxide based TiO2","Rhodamine B","Visible light",NA,NA,10,NA,NA,NA,25,NA,NA,NA,NA,NA,NA,80,NA,NA,NA,"Removal_percent",100
+E17,"Lai et al., 2016","Graphene based TiO2","Bisphenol A","Visible light",NA,NA,4,NA,NA,1.0,NA,NA,NA,NA,NA,NA,NA,180,NA,NA,NA,"Removal_percent",67.6
+E19,"Rong et al., 2015","Graphene oxide based TiO2","Methylene blue","Visible light",NA,NA,10,NA,NA,0.8,NA,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,"Removal_percent",98.8
+E22,"Khalid et al., 2013","Graphene oxide based TiO2","Methyl orange","Visible light",NA,NA,10,NA,NA,1.0,NA,NA,NA,NA,NA,NA,NA,180,NA,NA,NA,"Removal_percent",62
+E23,"Palaniandy et al., 2016","Degussa P-25 TiO2","Petroleum wastewater","Solar light",NA,NA,NA,NA,NA,NA,NA,NA,NA,3,9,"3-9",6.8,170,NA,NA,NA,"COD_reduction_percent",76
+E24,"Lu et al., 2017","TbxOy-TiO2","Phenol","Visible light",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,NA,NA,NA,"Removal_percent",100
+E25,"Saien and Shahrezaei, 2012","Degussa P-25 TiO2","Petroleum wastewater","UVA-UVB UV light",NA,NA,NA,NA,NA,NA,NA,NA,NA,2,10,"2-10",3,120,NA,NA,NA,"COD_reduction_percent",72
+E26,"Huang et al., 2008","Pt doped-TiO2","Methyl orange","UV light",NA,365,NA,NA,NA,NA,NA,NA,NA,2.5,11,"2.5, 6.2, and 11",2.5,30,NA,NA,NA,"Removal_percent",98
+E28,"Poulopoulos et al., 2019","Photo-Fenton-TiO2","Phenol","UV light",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,120,NA,NA,NA,"Removal_percent",100
+E29,"Poulopoulos et al., 2019","Photo-Fenton-TiO2","2,4,6-Trichlorophenol","UV light",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,NA,NA,NA,"Removal_percent",100
+E30,"Ortega-Liebana et al., 2012","Photo-Fenton-TiO2","3-Chloropyridine","UV light",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,60,NA,NA,NA,"Removal_percent",100
+E31,"Zhu et al., 2019","Photo-Fenton-TiO2","Rhodamine B","Solar light",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,120,NA,NA,NA,"Removal_percent",100
+E32,"Zhang et al., 2019","Photo-Fenton-TiO2","Methyl orange","Solar light",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,120,NA,NA,NA,"Removal_percent",98
+E33,"Singh et al., 2019","Photo-Fenton-Fe2O3/TiO2","Remazol dye","UV light",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,180,NA,NA,NA,"Removal_percent",90.57
+E34,"Pan et al., 2019","Lignin (bamboo)-TiO2","Methylene blue","UV light",NA,NA,12.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25,NA,NA,NA,"Removal_percent",93
+E35,"Pan et al., 2019","Lignin (bamboo)-TiO2","Methylene blue","Visible light",NA,NA,12.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,240,NA,NA,NA,"Removal_percent",63
+E36,"Yao et al., 2018","BiOI-CQDs","Methylene blue","Visible light",NA,NA,20,NA,NA,50,NA,NA,NA,NA,NA,NA,NA,80,NA,NA,"Pyrex cylindrical double-walled immersion wall reactor","Removal_percent",90.1
+E37,"Lisowski et al., 2017","TiO2-soft wood pellet","Phenol","UV light",NA,365,50,NA,NA,1.0,NA,NA,NA,NA,NA,NA,NA,240,30,NA,"Pyrex cylindrical double-walled immersion wall reactor","Removal_percent",64.1
+E38,"Zhang et al., 2017","TiO2-reed straw","Sulfamethoxazole","UV light",NA,NA,10,NA,NA,1.25,NA,NA,4,NA,NA,NA,NA,180,25,NA,"Glass reactor with quartz cover","Removal_percent",91.27
+E40,"Li et al., 2016","BiOBr-biochar","Methylene blue","Visible light",NA,664,5,NA,NA,0.1,NA,NA,NA,NA,NA,NA,NA,50,25,NA,NA,"Removal_percent",82
+E43,"Khraisheh et al., 2013","TiO2-coconut shell powder","Carbamazepine","UV light",10.5,254,10,NA,NA,120,NA,NA,7,NA,NA,NA,NA,40,20,NA,"fixed bed adsorption-photocatalytic reactor","Removal_percent",98
+E44,"Colmenares et al., 2013","TiO2-starbon","Phenol","UV light",NA,365,50,NA,NA,1.0,NA,NA,NA,NA,NA,NA,NA,240,30,NA,"Pyrex cylindrical double-walled immersion wall reactor","Removal_percent",76
+E46,"Elhalil et al., 2018","Mg-ZnO-Al2O3","Caffeine","UV light",NA,NA,NA,NA,0.0001,0.3,NA,NA,7.5,NA,NA,NA,NA,70,25,NA,NA,"Removal_percent",98.9
+E47,"Yunus et al., 2017","N,S-TiO2","Phenol","Visible light",NA,NA,NA,NA,0.00015,3.0,NA,NA,NA,NA,NA,NA,NA,270,NA,NA,NA,"Removal_percent",100
+E48,"Rajamanickam and Shanthi, 2016","ZnO","4-Nitrophenol","Sunlight",NA,NA,NA,NA,0.0002,1.5,NA,NA,5,NA,NA,NA,NA,90,NA,NA,NA,"Removal_percent",79.9
+E49,"Borji et al., 2014","Fe(III)-doped TiO2","Phenol","UV light",NA,NA,NA,NA,0.00053,0.5,NA,NA,3,NA,NA,NA,NA,210,NA,NA,NA,"Removal_percent",80
+E50,"Babu et al., 2019","CuO–TiO2/rGO","Methyl orange","UV light",NA,NA,0.01,NA,NA,1.0,NA,NA,7,3,11,NA,7,90,30,NA,NA,"Removal_percent",98
+E51,"Ye et al., 2018a","TiO2 nanotube array","Metoprolol","UV light",NA,NA,0.1,NA,NA,NA,NA,NA,NA,6,7,"6-7",NA,120,NA,NA,NA,"Removal_percent",89.27
+E52,"Rajamanickam and Shanthi, 2016","ZnO","4-Nitrophenol","Solar light",NA,NA,NA,0.2,NA,1.5,NA,NA,5,NA,NA,NA,NA,90,NA,NA,NA,"Removal_percent",97.7
+E53,"Safari et al., 2014","TiO2","Tetracycline","UV light",NA,NA,NA,0.06,NA,1.0,NA,NA,5,NA,NA,NA,NA,90,25,NA,NA,"Removal_percent",91.4
+E54,"Mir et al., 2013","TiO2","Ponceau BS","UV light",NA,NA,NA,0.02,NA,1.0,NA,NA,4.9,NA,NA,NA,NA,15,20,NA,NA,"Removal_percent",98.24
+E55,"Babu et al., 2019","CuO–TiO2/rGO","Methyl orange","UV light",NA,NA,0.01,NA,NA,1.0,NA,NA,7,3,11,"3.0-11.0",7,90,30,NA,NA,"Removal_percent",98
+E56,"Álvarez et al., 2018","X-Ni","Amitrole","UV light",NA,NA,NA,0.30,NA,0.25,NA,NA,NA,3,12,"3.0-12.0",12,120,25,NA,NA,"Removal_percent",96.9
+E57,"Gan et al., 2018","pCMS–CoFe2O4","Rhodamine B","Visible light",NA,NA,10,NA,NA,0.5,NA,NA,5,3,11,"3.0-11.0",5,180,28,NA,NA,"Removal_percent",100
+E58,"Ye et al., 2018a","TiO2 nanotube array","MTP","UV light",NA,NA,0.1,NA,NA,NA,NA,NA,NA,3,11,"3.0-11.0",6,120,NA,NA,NA,"Removal_percent",87.09
+E59,"Shamsedini et al., 2017","Fe3+–TiO2","Atrazine","UV light",NA,NA,NA,0.05,NA,0.025,NA,NA,NA,3,11,"3.0-11.0",11,120,NA,NA,NA,"Removal_percent",99.47
+E60,"Khezrianjoo and Revanasiddappa, 2016","ZnO","m-Cresol Purple","UV light",NA,NA,NA,0.05,NA,1.5,NA,NA,NA,4,10,"4.0-10.0",8,150,25,NA,NA,"Removal_percent",97
+E61,"Safari et al., 2014","TiO2","Tetracycline","UV light",NA,NA,NA,1.24,NA,1.0,NA,NA,NA,5,11,"5.0-11.0",5,120,25,NA,NA,"Removal_percent",83.4
+E63,"Habibpanah et al., 2011","Al2O3/TiO2 supported on Al2O3 support","Green malachite","UV irradiation",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,180,NA,"Al2O3 support",NA,"Removal_percent",95
