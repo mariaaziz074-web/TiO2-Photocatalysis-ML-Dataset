@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TiO2 Photocatalysis ML Dataset 🧪🤖
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -40,3 +41,7 @@ A curated, **machine-learning ready dataset** of **TiO2-based photocatalytic deg
 git clone https://github.com/mariaaziz074-web/TiO2-Photocatalysis-ML-Dataset.git
 cd TiO2-Photocatalysis-ML-Dataset
 pip install -r requirements.txt
+=======
+# TiO2-Photocatalysis-ML-Dataset
+Machine-learning ready dataset of TiO2-based photocatalytic degradation experiments with predictive models for pollutant removal efficiency
+>>>>>>> a812c86dc2fc2dea2b5531167ad933ddeed22640
