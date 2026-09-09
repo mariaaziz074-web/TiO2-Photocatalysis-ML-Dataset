@@ -6,7 +6,7 @@ numpy>=1.23.0
 matplotlib>=3.6.0
 seaborn>=0.12.0
 plotly>=5.11.0
-
+HTML
 # Machine Learning
 scikit-learn>=1.2.0
 xgboost>=1.7.0
